@@ -1,7 +1,7 @@
 # SilentPhish
 Swift Student Challenge Submission | WWDC 2022
 
-### ⭐ Watch Preview ⭐
+### ⭐ [Watch Preview](https://youtu.be/BotDcUJ1RRo) ⭐
 ![cover](https://user-images.githubusercontent.com/39642060/166147824-4068020b-8bcf-4628-8a92-54d13d6502ee.png)
 
 My Swift Playground App aims to demonstrate the detection of Phishing websites using Machine Learning to analyze the threat in an offline sandbox.
