@@ -45,3 +45,5 @@ SwiftUI, CreateML, CoreML, AVKit, Python, GoogleColab
 6) Sounds (freesounds.org)
 
 Thank you for checking out my Swift Playground App!!!
+
+## ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=silentphish)
