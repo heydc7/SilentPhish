@@ -33,6 +33,11 @@ Hurray! This is how we can simply check any suspicious link using SilentPhish in
 
 In the future, my goal is to build a browser extension using Machine Learning which will show the user whether the website is legitimate or phishing.
 
+### Resources
+1) [Google Colab Notebook](Other/SilentPhish.ipynb)
+2) [All URLs](Other/allUrls.csv)
+3) [Extracted Features](Other/allFeatures.csv)
+
 ### Technology Used:
 SwiftUI, CreateML, CoreML, AVKit, Python, GoogleColab
 
